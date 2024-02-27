@@ -1,0 +1,14 @@
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.AssemblyInfoInputs.cache
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.AssemblyInfo.cs
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.csproj.CoreCompileInputs.cache
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\bin\Debug\net8.0\OefeningenLabo02.exe
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\bin\Debug\net8.0\OefeningenLabo02.deps.json
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\bin\Debug\net8.0\OefeningenLabo02.runtimeconfig.json
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\bin\Debug\net8.0\OefeningenLabo02.dll
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\bin\Debug\net8.0\OefeningenLabo02.pdb
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.dll
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\refint\OefeningenLabo02.dll
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.pdb
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\OefeningenLabo02.genruntimeconfig.cache
+C:\Users\nicoe\Desktop\AP\Basis Programmeren\Labo02\OefeningenLabo02\OefeningenLabo02\obj\Debug\net8.0\ref\OefeningenLabo02.dll
